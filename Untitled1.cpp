@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
 
-
 int convert(char c){
 	int a = c;
 	return a;
