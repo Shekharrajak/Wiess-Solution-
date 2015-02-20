@@ -12,9 +12,7 @@
 
         typedef Position List;
 
-        /* List *TheList will be an array of lists, allocated later */
-        /* The lists use headers (for simplicity), */
-        /* though this wastes space */
+    /
         struct HashTbl
         {
             int TableSize;
