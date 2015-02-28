@@ -22,8 +22,7 @@
         /* Return next prime; assume N >= 10 */
         static int
         NextPrime( int N )
-        {
-            int i;
+        {int i;
 
             if( N % 2 == 0 )
                 N++;
